@@ -1,0 +1,12 @@
+# bower libs
+bower_components/*
+
+# npm libs
+node_modules/*
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
