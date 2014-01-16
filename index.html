@@ -16,21 +16,13 @@
    Version 0.14 throws an error. Use latest build from the page */
 </script>
 -->
-<!--
-<script src="app.js"></script>
-<script src="store.js"></script>
-<script src="models/user.js"></script>
-<script src="router.js"></script>
-<script src="routes/usersRoute.js"></script>
-<script src="routes/userRoute.js"></script>
-<script src="routes/userEditRoute.js"></script>
-<script src="controllers/usersController.js"></script>
-<script src="controllers/userController.js"></script>
--->
-
 
 <script src="libs.js"></script>
-<script src="libs/localstorage_adapter.js"></script>
+<script src="bower_components/ember-localstorage-adapter/localstorage_adapter.js">
+/* 
+Not working when implemented via grunt uglify into libs.js, therefore manual call 
+*/
+</script>
 
 <script src="templates.js"></script>
 <script src="cesar.js"></script>
