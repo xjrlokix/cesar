@@ -1,6 +1,6 @@
 # The Cesar Project
 
-A sandbox Ember application based on the smashing magazin article http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/#what_is_handlebars_template_precompiling
+A sandbox Ember application based on the smashing magazin article http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/
 
 ## Install
 
