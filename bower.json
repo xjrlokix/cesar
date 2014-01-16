@@ -1,0 +1,26 @@
+{
+  "name": "cesar",
+  "main": "index.html",
+  "version": "0.0.0",
+  "homepage": "https://github.com/xjrlokix/cesar",
+  "authors": [
+    "Ben Fredericson <ben.fredericson@gmail.com>"
+  ],
+  "description": "a ember sandbox application",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember-localstorage-adapter": "*",
+    "jquery": "~2.0.3",
+    "handlebars": "~1.3.0",
+    "ember": "~1.3.0",
+    "ember-data": "~0.0.14"
+  }
+}

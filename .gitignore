@@ -4,6 +4,11 @@ bower_components/*
 # npm libs
 node_modules/*
 
+# cesar builds
+libs.js
+cesar.js
+templates.js
+
 ## generic files to ignore
 *~
 *.lock
