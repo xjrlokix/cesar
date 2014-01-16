@@ -18,7 +18,8 @@ The following tools are needed to make it work
 
 1. npm install
 
-2. bower
+2. bower install
+... Attention: when this was coded, bower had ember-data in the version 0.14 which made problems. See index.html source code. Manualy update to ember-data 1.0.0beta3
 
 3. grunt
 
